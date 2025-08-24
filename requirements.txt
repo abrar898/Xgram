@@ -1,0 +1,11 @@
+//frontend
+npm install vite@latest //using vite
+npm install -D tailwindcss@3 postcss //for vite 
+npm install react-router-dom
+npm install react-icons
+npm install lucide-react
+npm install socket.io-client //using socket-io for communication
+
+//backend
+npm init -y
+npm install express mongoose socket.io cors dotenv
